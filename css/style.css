@@ -1,0 +1,51 @@
+body{
+	
+	margin: auto;
+    width: 501px;
+}
+
+.google {
+	text-align: center;	
+	}
+.container .task2 {
+	color: blue;
+}	
+.container .task3 {
+	color: red;
+}	
+.container .task4 {
+	color: green
+
+}	
+.container .task5 {
+	color: yellow;
+
+}	
+.google .img{
+	height: 120px;
+}
+H1{
+	text-align: center;
+    margin: 0;
+}
+
+.container {
+	text-align: center;
+}
+.container1{
+    	    margin: 0;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.container2 h3{
+	background-color: #94bb94;
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    padding: 40px;
+    font-size: 28px;
+}
+
+
+
